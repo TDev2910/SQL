@@ -1,2 +1,2 @@
 # SQL
-Practice
+Practice working with database queries
